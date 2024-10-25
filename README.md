@@ -49,6 +49,10 @@ Done!
   - Switch between windows of same app: ``Cmd-` ``
   - Open the Launcher: `Cmd-Space`
 
+- Tab Switching:
+  - Switch: `Cmd-shift-[` -> `Ctrl-Pageup`
+  - Switch backwards: `Cmd-shift-]` -> `Ctrl-Pagedown`
+
 - Switch directly to an open tab, e.g. Firefox or VS Code:
   - `Cmd-1` -> `Alt-1`
   - `Cmd-2` -> `Alt-2`
